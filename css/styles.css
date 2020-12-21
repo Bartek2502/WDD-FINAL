@@ -1,0 +1,47 @@
+body
+{
+    background-color: grey;
+    font-family: sans-serif;
+}
+.new-items
+{
+    height: 80%;
+    width: 15%;
+    font-size: 20px;
+    float: right;
+
+    background-color: dimgrey;
+}
+
+.special-offers
+{
+    
+    width: 100%; 
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    padding: 0 10px;
+    
+}
+.h1Text
+{
+    margin-top: 20px;
+    text-align: center;
+}
+#for
+{
+    float: right;
+    margin-top: 20px;
+}
+#about-us
+{
+    float: right
+}
+#about-us2
+{
+    text-align: center;
+}
+#middle
+{
+    text-align: center;
+}
